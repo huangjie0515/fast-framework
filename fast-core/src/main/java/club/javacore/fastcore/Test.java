@@ -1,7 +1,7 @@
 package club.javacore.fastcore;
 
 /**
- *111
+ *111222
  */
 public class Test {
 }
